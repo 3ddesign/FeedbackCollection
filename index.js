@@ -6,6 +6,7 @@ const keys  = require('./config/keys');
 require('./models/User');
 require('./services/passport');
 
+//connect to remote mongoDB base (using mongoose lib):
 mongoose.connect(keys.mongoURI);
 
 const app = express();
