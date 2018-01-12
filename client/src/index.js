@@ -9,10 +9,13 @@ import App from './components/App';
 import reducers from './reducers';
 
 
-const store = createStore(reducers, {}, applyMiddleware());
+const store = createStore(reducers, {}, applyMiddleware(reduxThunk));
 
 ReactDOM.render(
     <Provider store={store}><App/></Provider>,
     document.querySelector('#root')
 );
 
+//envairment variable
+// console.log('Key is ', process.env.REACT_APP_STRIPE_KEY);
+// console.log('Environment is ', process.env.NODE_ENV);
