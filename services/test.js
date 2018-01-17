@@ -14,5 +14,4 @@ const fetchAlbums = async () => {
     console.log(json);
 };
 
-
 fetchAlbums();
