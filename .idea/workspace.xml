@@ -2,26 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea3d41ec-0878-4b92-b57d-f49e648177de" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/components/surveys/SurveyField.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/components/surveys/SurveyForm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/components/surveys/SurveyFromReview.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/components/surveys/SurveyList.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/components/surveys/SurveyNew.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/components/surveys/formFields.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/reducers/surveysReducer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/utils/validateEmails.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/package-lock.json" afterPath="$PROJECT_DIR$/client/package-lock.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/package.json" afterPath="$PROJECT_DIR$/client/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/src/actions/index.js" afterPath="$PROJECT_DIR$/client/src/actions/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/src/actions/types.js" afterPath="$PROJECT_DIR$/client/src/actions/types.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/src/components/App.js" afterPath="$PROJECT_DIR$/client/src/components/App.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/src/components/Dashboard.js" afterPath="$PROJECT_DIR$/client/src/components/Dashboard.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/src/reducers/index.js" afterPath="$PROJECT_DIR$/client/src/reducers/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/surveyRoutes.js" afterPath="$PROJECT_DIR$/routes/surveyRoutes.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/services/emailTemplates/surverTemplate.js" afterPath="$PROJECT_DIR$/services/emailTemplates/surverTemplate.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/src/components/surveys/SurveyList.js" afterPath="$PROJECT_DIR$/client/src/components/surveys/SurveyList.js" />
     </list>
     <ignored path="$PROJECT_DIR$/client/node_modules/" />
     <ignored path="$PROJECT_DIR$/node_modules/" />
@@ -84,8 +65,8 @@
       <file leaf-file-name="SurveyList.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/client/src/components/surveys/SurveyList.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="21" column="34" lean-forward="true" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+            <state relative-caret-position="420">
+              <caret line="30" column="5" lean-forward="false" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -398,15 +379,16 @@
       <workItem from="1518199919453" duration="480000" />
       <workItem from="1518259229194" duration="3520000" />
       <workItem from="1518331813682" duration="1968000" />
-      <workItem from="1518370172030" duration="5287000" />
+      <workItem from="1518370172030" duration="5551000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="154194000" />
+    <option name="totallyTimeSpent" value="154458000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1366" y="26" width="1276" height="998" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2374502" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977098" sideWeight="0.49691358" order="6" side_tool="false" content_ui="tabs" />
@@ -799,8 +781,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/client/src/components/surveys/SurveyList.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="21" column="34" lean-forward="true" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+        <state relative-caret-position="420">
+          <caret line="30" column="5" lean-forward="false" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
