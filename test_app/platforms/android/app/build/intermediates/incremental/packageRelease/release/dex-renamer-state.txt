@@ -1,0 +1,4 @@
+#Mon Oct 08 16:43:11 EEST 2018
+base.0=/home/dmitry/Projects/kiosk/platforms/android/app/build/intermediates/transforms/dex/release/0
+path.0=classes.dex
+renamed.0=classes.dex
